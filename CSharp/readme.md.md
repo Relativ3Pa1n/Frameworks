@@ -1,6 +1,6 @@
 # C# - New Project in VS Code with Git Bash in 5 lines
 How our console and directory will look after this. 
-![](https://i.imgur.com/KLc9Yp3.png) ![](https://i.imgur.com/2vpX7f0.png)
+![](https://i.imgur.com/544zlUR.png) ![](https://i.imgur.com/2vpX7f0.png)
 
 
 
