@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kali\\CSharpTemplate\\NameOfConsole\\NameOfConsole.csproj",
+      "projectUniqueName": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfConsole\\NameOfConsole.csproj",
       "projectName": "NameOfConsole",
-      "projectPath": "C:\\Users\\kali\\CSharpTemplate\\NameOfConsole\\NameOfConsole.csproj",
+      "projectPath": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfConsole\\NameOfConsole.csproj",
       "packagesPath": "C:\\Users\\kali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kali\\CSharpTemplate\\NameOfConsole\\obj\\",
+      "outputPath": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kali\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj"
+            "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj"
             }
           }
         }

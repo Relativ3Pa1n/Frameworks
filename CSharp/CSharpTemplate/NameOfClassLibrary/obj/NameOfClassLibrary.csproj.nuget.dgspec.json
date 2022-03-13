@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj": {}
+    "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj": {
+    "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj",
         "projectName": "NameOfClassLibrary",
-        "projectPath": "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj",
+        "projectPath": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj",
         "packagesPath": "C:\\Users\\kali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kali\\AppData\\Roaming\\NuGet\\NuGet.Config",

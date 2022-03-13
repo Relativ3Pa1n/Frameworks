@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BqzBShsPBXBDq1JG8s6iLven6Ib55wyIfNOriU2Hvid98ag1GQ68ytJQLG5Bp8iWvOgOD+6iF/S7eBSSdf+NRQ==",
+  "dgSpecHash": "BHo/Mlc/9Ptkomu7L35TwtDcIq1Gd43nq/Fkmab4LrqCHdXR8knPdf+16ycGegCbsb9No0VC5PX5CjbvkHXtjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kali\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\kali\\Work\\GitHub\\Frameworks\\CSharp\\CSharpTemplate\\NameOfClassLibrary\\NameOfClassLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
