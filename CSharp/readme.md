@@ -1,7 +1,6 @@
 # C# - New Project in VS Code with Git Bash in 5 lines
 How our console and directory will look after this. 
-![](https://i.imgur.com/544zlUR.png) ![](https://i.imgur.com/NTz7za0.png)
-
+![](https://i.imgur.com/544zlUR.png)  ![](https://i.imgur.com/NTz7za0.png)
 
 ```d
 //# Line by line, this builds a C# skeleton that VSCode will repair and give us a basic console and debugger. Credit to @IAmTimCorey 
