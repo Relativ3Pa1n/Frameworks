@@ -1,0 +1,12 @@
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\bin\Debug\net6.0\NameOfClassLibrary.deps.json
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\bin\Debug\net6.0\NameOfClassLibrary.dll
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\bin\Debug\net6.0\NameOfClassLibrary.pdb
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\NameOfClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\NameOfClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\NameOfClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\NameOfClassLibrary.AssemblyInfo.cs
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\NameOfClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\NameOfClassLibrary.dll
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\refint\NameOfClassLibrary.dll
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\NameOfClassLibrary.pdb
+C:\Users\kali\CSharpTemplate\NameOfClassLibrary\obj\Debug\net6.0\ref\NameOfClassLibrary.dll
